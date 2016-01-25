@@ -1,0 +1,6 @@
+.env
+.buildpath
+.env.example
+.project
+.settings/
+.gitattributes
